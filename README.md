@@ -9,7 +9,7 @@ NoisyNER is a dataset for the evaluation of methods to handle noisy labels when 
 - For some label sets: noise level higher than the true label probability
 - Sequential dependencies between the labels
 
-For more details on the dataset and its creation process, please refer to our publication [LINK TO FOLLOW].
+For more details on the dataset and its creation process, please refer to our publication https://arxiv.org/abs/2101.09763 (to appear at AAAI).
 
 ## Instructions
 
@@ -28,7 +28,7 @@ All files are tsv files with the same structure. The structure follows the CoNLL
 
 ## Contact Sources & Citations
 
-For more details, please refer to our publication [LINK TO FOLLOW]. If you have any questions or if you run into any issues, feel free to contact us.
+For more details, please refer to our publication https://arxiv.org/abs/2101.09763 (to appear at AAAI). If you have any questions or if you run into any issues, feel free to contact us.
 
 When you work with this dataset, please consider citing us as
 
