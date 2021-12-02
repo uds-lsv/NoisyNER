@@ -32,9 +32,12 @@ For more details, please refer to our [publication](https://ojs.aaai.org/index.p
 
 When you work with this dataset, please consider citing us as
 
-> Hedderich, Zhu and Klakow:
-> Analysing the Noise Model Error for Realistic Noisy Label Data
+> Hedderich, Zhu and Klakow.
+> 
+> Analysing the Noise Model Error for Realistic Noisy Label Data.
+> 
 > AAAI 2021
+> 
 > https://ojs.aaai.org/index.php/AAAI/article/view/16938
 
 ```
@@ -55,7 +58,9 @@ This noisy label dataset is based on an existing NER dataset for Estonian. Pleas
 The original dataset and the clean labels are from
 
 >Laur, S. (2013). 
->Nimeüksuste korpus. Center of Estonian Language Resources. 
+>
+>Nimeüksuste korpus. Center of Estonian Language Resources.
+> 
 >https://doi.org/10.15155/1-00-0000-0000-0000-00073L
 
 ```
