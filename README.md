@@ -9,7 +9,7 @@ NoisyNER is a dataset for the evaluation of methods to handle noisy labels when 
 - For some label sets: noise level higher than the true label probability
 - Sequential dependencies between the labels
 
-For more details on the dataset and its creation process, please refer to our publication https://arxiv.org/abs/2101.09763 (to appear at AAAI).
+For more details on the dataset and its creation process, please refer to our publication https://ojs.aaai.org/index.php/AAAI/article/view/16938 (published at AAAI'21).
 
 ## Instructions
 
@@ -28,13 +28,27 @@ All files are tsv files with the same structure. The structure follows the CoNLL
 
 ## Contact Sources & Citations
 
-For more details, please refer to our publication https://arxiv.org/abs/2101.09763 (to appear at AAAI). If you have any questions or if you run into any issues, feel free to contact us.
+For more details, please refer to our [publication](https://ojs.aaai.org/index.php/AAAI/article/view/16938). If you have any questions or if you run into any issues, feel free to contact us.
 
 When you work with this dataset, please consider citing us as
 
->
-> CITATION TO FOLLOW
->
+> Hedderich, Zhu and Klakow:
+> Analysing the Noise Model Error for Realistic Noisy Label Data
+> AAAI 2021
+> https://ojs.aaai.org/index.php/AAAI/article/view/16938
+
+```
+@inproceedings{hedderich2021analysing,
+  title={Analysing the Noise Model Error for Realistic Noisy Label Data},
+  author={Hedderich, Michael A and Zhu, Dawei and Klakow, Dietrich},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={9},
+  pages={7675--7684},
+  year={2021}
+}
+
+```
 
 This noisy label dataset is based on an existing NER dataset for Estonian. Please cite this work as well. 
 
