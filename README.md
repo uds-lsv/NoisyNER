@@ -14,11 +14,13 @@ For more details on the dataset and its creation process, please refer to our pu
 ## Instructions
 
 1. Clone this repository 
-2. Download the original Estonian NER dataset from https://doi.org/10.15155/1-00-0000-0000-0000-00073L
+2. Download the original Estonian NER dataset from https://code.google.com/archive/p/patnlp/downloads (estner.cnll.zip)
 2. Extract the downloaded .zip file and save the "estner.cnll" file in the "data" subdirectory
 3. Run ``python prepare_data.py`` with Python3
 
 You will then find in the "data" directory all the dataset files.
+
+Note: The original Estonian NER dataset was located at https://doi.org/10.15155/1-00-0000-0000-0000-00073L . At the time of this update (Feb 2023) this link did not work anymore. We have updated the above link (thanks @WinterShiver for the pointer!) If you run into any issues with the download in the future, just let us know.
 
 ## Structure
 
